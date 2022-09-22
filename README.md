@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kai
+- 👀 I enjoy programming applications using excel, Power BI and Python.
+- 🌱 I’m currently improving my Python and SQL skills.
+- 💞️ I’m looking to collaborate on Data Projects in the automotive sector or real estate.
+- 📫 How to reach me [...](https://www.linkedin.com/in/park-kai/)
